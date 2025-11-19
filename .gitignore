@@ -18,8 +18,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data files (too large for git)
-data/
-
 # Claude
 .claude/
